@@ -1,6 +1,6 @@
 <?php
 
-$to = 'candiasynergy@gmail.com' . "\r\n";
+$to = 'admin@candiasynergy.com' . "\r\n";
 $subject = 'Get a Quote Request From Candia Synergy';
 $name = $_POST['Complete_Name'];
 $email = $_POST['Email_Address'];
